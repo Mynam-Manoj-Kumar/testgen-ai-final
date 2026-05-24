@@ -1,0 +1,22 @@
+Project Name: TestGen AI
+
+Problem Statement Selected:
+10. AI Test Case Generation Agent for QA Teams
+
+GitHub Repository Link:
+Paste your GitHub repo link here.
+
+Live Website Link:
+Paste your Vercel/Netlify link here.
+
+Demo Video Link:
+Paste your Google Drive/YouTube link here.
+
+Team Name:
+Code Crafters
+
+Short Description:
+TestGen AI is an AI-powered test case generation tool that helps developers automatically generate normal, edge and invalid test cases from source code using Gemini AI.
+
+Tech Stack:
+React, Vite, Gemini AI API, CSS
